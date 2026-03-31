@@ -78,12 +78,17 @@ El proyecto sigue el patrón:
 ## 🖼️ Interfaz
 
 * Lista en formato **Grid (2 columnas)**
+
+![Lista de propiedades](screenshots/Mars1.png)
+
 * Visualización de:
 
   * Imagen
   * Precio formateado
   * Tipo de propiedad
 * Navegación a detalle con información ampliada
+
+![Detalle de propiedad](screenshots/Mars2.png)
 
 ---
 
