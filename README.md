@@ -8,7 +8,7 @@ Aplicación Android desarrollada en **Kotlin** que consume datos desde una API R
 
 ## 📱 Descripción
 
-Esta app permite visualizar propiedades disponibles en Marte 🪐, mostrando imágenes, precios y tipo de propiedad (venta/arriendo).
+Esta app permite visualizar propiedades disponibles en Marte 🪐, mostrando imágenes, precios y tipo de propiedad (venta/arriendo),(buy / rent).
 
 Los datos son obtenidos desde una API externa y persistidos localmente, permitiendo una mejor gestión y visualización eficiente.
 
